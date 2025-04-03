@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c8054f21adf40e593eb7c42edadae61, type: 3}
+  m_Name: Laser
+  m_EditorClassIdentifier: 
+  TurretName: "\u041B\u0430\u0437\u0435\u0440"
+  TurretNameEn: Laser
+  TurretPf: {fileID: 7176537966469909400, guid: 1626c3d76f3af4d45bfb2207d11da643,
+    type: 3}
+  TurretType: 3
+  UpgradeStage: 0
+  NextUpgradeStage: 1
+  ProjectileType: 1
+  TurretPreferences:
+    SpriteTurret: {fileID: 21300000, guid: e20af1fa2e49ad649a39a6c50569db7f, type: 3}
+    Damage: 13
+    AttackRadius: 20
+    Reload: 0.25
+  Price: 200
+  Description: "\u041B\u0430\u0437\u0435\u0440\u043D\u0430\u044F \u0443\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0430,
+    \u043E\u0447\u0435\u043D\u044C \u0431\u044B\u0441\u0442\u0440\u043E \u0432\u044B\u0436\u0438\u0433\u0430\u0435\u0442
+    \u043E\u0434\u043D\u0443 \u0446\u0435\u043B\u044C \u043B\u0430\u0437\u0435\u0440\u043E\u043C.
+    \u0421\u0440\u0435\u0434\u043D\u0438\u0439 \u0440\u0430\u0434\u0438\u0443\u0441
+    \u043F\u043E\u0440\u0430\u0436\u0435\u043D\u0438\u044F. "
+  DescriptionEn: The laser installation burns out one target very quickly with a
+    laser. The average radius of damage.

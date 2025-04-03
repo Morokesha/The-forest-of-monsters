@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4280eb105af446daa206492045e0cfa3, type: 3}
+  m_Name: Level 6
+  m_EditorClassIdentifier: 
+  Level: 6
+  LevelPf: {fileID: 7449997950183653137, guid: 0d11552420b814d4d9225f7e9489527f, type: 3}
+  WavePreferences:
+  - LevelPartPreferencesList:
+    - CrabCount: 30
+      BatCount: 0
+      OrcCount: 0
+      SceletonCount: 0
+      MageCount: 0
+      BlackKnightCount: 0
+    - CrabCount: 0
+      BatCount: 10
+      OrcCount: 0
+      SceletonCount: 6
+      MageCount: 0
+      BlackKnightCount: 0
+    - CrabCount: 0
+      BatCount: 30
+      OrcCount: 0
+      SceletonCount: 6
+      MageCount: 0
+      BlackKnightCount: 0
+  - LevelPartPreferencesList:
+    - CrabCount: 0
+      BatCount: 0
+      OrcCount: 4
+      SceletonCount: 30
+      MageCount: 2
+      BlackKnightCount: 0
+    - CrabCount: 0
+      BatCount: 0
+      OrcCount: 20
+      SceletonCount: 30
+      MageCount: 0
+      BlackKnightCount: 0
+    - CrabCount: 0
+      BatCount: 30
+      OrcCount: 20
+      SceletonCount: 20
+      MageCount: 20
+      BlackKnightCount: 0
+  - LevelPartPreferencesList:
+    - CrabCount: 0
+      BatCount: 0
+      OrcCount: 0
+      SceletonCount: 0
+      MageCount: 30
+      BlackKnightCount: 0
+    - CrabCount: 0
+      BatCount: 0
+      OrcCount: 50
+      SceletonCount: 0
+      MageCount: 0
+      BlackKnightCount: 0
+    - CrabCount: 0
+      BatCount: 26
+      OrcCount: 0
+      SceletonCount: 0
+      MageCount: 0
+      BlackKnightCount: 0
+  - LevelPartPreferencesList:
+    - CrabCount: 0
+      BatCount: 0
+      OrcCount: 0
+      SceletonCount: 0
+      MageCount: 0
+      BlackKnightCount: 2
+  StartGoldOnLevel: 400

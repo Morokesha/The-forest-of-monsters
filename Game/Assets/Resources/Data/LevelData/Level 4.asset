@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4280eb105af446daa206492045e0cfa3, type: 3}
+  m_Name: Level 4
+  m_EditorClassIdentifier: 
+  Level: 4
+  LevelPf: {fileID: 924211290837419701, guid: 441b48f9d9f6b8b43b8e08af67085e49, type: 3}
+  WavePreferences:
+  - LevelPartPreferencesList:
+    - CrabCount: 10
+      BatCount: 10
+      OrcCount: 0
+      SceletonCount: 0
+      MageCount: 0
+      BlackKnightCount: 0
+  - LevelPartPreferencesList:
+    - CrabCount: 0
+      BatCount: 0
+      OrcCount: 0
+      SceletonCount: 30
+      MageCount: 0
+      BlackKnightCount: 0
+  - LevelPartPreferencesList:
+    - CrabCount: 0
+      BatCount: 16
+      OrcCount: 22
+      SceletonCount: 6
+      MageCount: 0
+      BlackKnightCount: 0
+  - LevelPartPreferencesList:
+    - CrabCount: 0
+      BatCount: 0
+      OrcCount: 22
+      SceletonCount: 8
+      MageCount: 12
+      BlackKnightCount: 0
+  - LevelPartPreferencesList:
+    - CrabCount: 0
+      BatCount: 0
+      OrcCount: 0
+      SceletonCount: 0
+      MageCount: 0
+      BlackKnightCount: 1
+  StartGoldOnLevel: 200
